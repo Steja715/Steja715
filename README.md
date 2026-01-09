@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sai+Teja;International+Health+Master's;Data+Analyst+(Python+%2B+SQL);Visualizing+Health+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sai+Teja Muramalla;International+Health+Master's;Data+Analyst+(Python+%2B+SQL);Visualizing+Health+Data" alt="Typing SVG" />
 
   <h3 align="center"> bridging the gap between Public Health & Data Analytics </h3>
 
@@ -34,12 +34,11 @@ I combine domain expertise in epidemiology and global health with technical skil
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=radical" alt="stats graph" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=radical" alt="languages graph" width="45%" />
+</p>
 ---
 
 ### 📂 Career247 & Capstone Projects
