@@ -1,8 +1,8 @@
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Sai%20Teja&fontSize=80&animation=fadeIn&fontAlign=50&desc=International%20Health%20To%20Data%20Analytics&descAlign=50&descSize=25)
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sai+Teja;International+Health+Master's;Data+Analyst+(Python+%2B+SQL);Visualizing+Health+Data" alt="Typing SVG" />
-
-  <h3 align="center"> bridging the gap between Public Health & Data Analytics </h3>
+  ### 🩺 Bridging Public Health & Data Science
 
   ---
 
@@ -10,41 +10,47 @@
     <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
 
 ### 👨‍💻 About Me
-I am a recent **Master's Graduate in International Health** (University of Oslo) transitioning into **Data Analytics**. 
+I am an **International Health Master's Graduate** leveraging data to solve complex healthcare challenges. I translate health data into actionable insights using Python, SQL, and visualization tools.
 
-I combine domain expertise in epidemiology and global health with technical skills to drive data-driven decision-making. Currently upskilling with **Career247** to build robust portfolios.
+* 🏥 **Domain focus:** Epidemiology, Global Health Trends, Biostatistics.
+* 💻 **Currently learning:** Advanced SQL querying and building interactive Power BI dashboards via Career247.
 
-* 🔭 I’m currently working on: **Analysis of Global Health Trends**
-* 🌱 I’m learning: **Advanced SQL, Power BI, and Python**
-* 💡 Goal: To solve complex healthcare challenges using data.
+---
+
+### 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Steja715&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="Steja715 trophies" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Technical Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,excel,powerbi,tableau,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sql,postgres,excel,powerbi,tableau,git,github,vscode" />
 </div>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Data & Activity Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=dracula&hide_border=true&card_width=320" height="160" alt="languages graph" />
 </div>
 
 ---
 
-### 📂 Career247 & Capstone Projects
+### 📂 Upcoming Capstone Projects
 
-| Project Name | Domain | Tools | Status |
-| :--- | :--- | :--- | :--- |
-| **Healthcare Analysis** | Epidemiology | Python (Pandas) | 🚧 In Progress |
-| **Sales Dashboard** | Operations | Power BI | 🔜 Coming Soon |
+| Project Name | Domain | Status |
+| :--- | :--- | :--- |
+| **Global Health Trend Analysis** | Epidemiology | 🚧 In Progress |
+| **Hospital Operations Dashboard** | Healthcare Admin | 🔜 Coming Soon |
