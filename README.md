@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I hold a **Master's in International Health** and am currently specializing in **Data Analytics**. My goal is to leverage data to improve healthcare outcomes and operational efficiency. I am currently upskilling in **Python, SQL, and Power BI** through the Career247 program.
+I hold a **Master's in International Health** and am currently specializing in **Data Analytics**. My goal is to leverage data to improve healthcare outcomes and operational efficiency. I am currently upskilling in **Python, SQL, and Power BI.
 
 - 🔭 I’m currently working on: **Health Data Visualization Capstones**
 - 🌱 I’m learning: **Advanced SQL Queries & Tableau Dashboarding**
