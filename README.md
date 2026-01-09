@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Steja715/Steja715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collab<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 <h3 align="center">International Health Specialist & Aspiring Data Analyst</h3>
 
 ---
@@ -44,10 +35,4 @@ I hold a **Master's in International Health** and am currently specializing in *
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Healthcare Capstone** | Analyzing global health trends (Career247) | Python, Pandas | [Link](#) |
-| **Hospital KPI Dashboard** | Interactive dashboard for patient flow | Power BI | [Link](#) |orate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Hospital KPI Dashboard** | Interactive dashboard for patient flow | Power BI | [Link](#) |
