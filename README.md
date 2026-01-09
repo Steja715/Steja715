@@ -1,24 +1,50 @@
+<div align="center">
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Steja715) 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sai+Teja;International+Health+Master's;Data+Analyst+(Python+%2B+SQL);Visualizing+Health+Data" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Steja715&theme=calm&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Steja715&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&theme=calm&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <h3 align="center"> bridging the gap between Public Health & Data Analytics </h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Steja715&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <p align="center">
+    <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Steja715&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
+I am a recent **Master's Graduate in International Health** (University of Oslo) transitioning into **Data Analytics**. 
+
+I combine domain expertise in epidemiology and global health with technical skills to drive data-driven decision-making. Currently upskilling with **Career247** to build robust portfolios.
+
+* 🔭 I’m currently working on: **Analysis of Global Health Trends**
+* 🌱 I’m learning: **Advanced SQL, Power BI, and Python**
+* 💡 Goal: To solve complex healthcare challenges using data.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Steja715&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Technical Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,postgres,excel,powerbi,tableau,github,vscode" />
+</div>
+
+---
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 📂 Career247 & Capstone Projects
+
+| Project Name | Domain | Tools | Status |
+| :--- | :--- | :--- | :--- |
+| **Healthcare Analysis** | Epidemiology | Python (Pandas) | 🚧 In Progress |
+| **Sales Dashboard** | Operations | Power BI | 🔜 Coming Soon |
