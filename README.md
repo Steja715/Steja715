@@ -35,10 +35,8 @@ I combine domain expertise in epidemiology and global health with technical skil
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=radical" alt="stats graph" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=radical" alt="languages graph" width="45%" />
-</p>
+![My Stats](https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=radical)
 ---
 
 ### 📂 Career247 & Capstone Projects
