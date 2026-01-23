@@ -23,7 +23,7 @@ I combine domain expertise in epidemiology and global health with technical skil
 
 * 🔭 I’m currently working on: **Analysis of Global Health Trends**
 * 🌱 I’m learning: **Advanced SQL, Power BI, and Python**
-* 💡 Goal: To solve complex healthcare challenges using data.
+* 💡 Goal: To solve complex healthcare challenges using the knowledge of advanced statistical data.
 
 ---
 
