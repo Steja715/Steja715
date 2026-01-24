@@ -18,9 +18,9 @@
 ---
 
 ### 🩺 About Me
-I am a researcher with a background in **Biotechnology** and **International Community Health**, currently transitioning into advanced computational epidemiology. My work focuses on the intersection of **infectious disease modeling**, **AMR surveillance**, and **causal inference**.
+I am a researcher with a background in **Biotechnology** and **International Community Health**, currently transitioning into advanced biostatistics. My work focuses on the intersection of **infectious disease modeling**, **AMR surveillance**, and **causal inference**.
 
-I am passionate about applying rigorous quantitative methods to solve complex public health challenges, specifically using data to understand vaccine efficacy and pharmaceutical interventions.
+I am passionate about applying rigorous quantitative methods to solve complex public health challenges.
 
 ---
 
@@ -28,8 +28,8 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 
 | **Degree** | **Details** |
 | :--- | :--- |
-| **M.Phil. International Community Health** | **University of Oslo** <br> 📝 *Thesis:* Antimicrobial Resistance (AMR) & Health Literacy using the **OPHELIA** tool. <br> 🔬 *Focus:* Quantitative methods and study desing, bias analysis, and survey validation. |
-| **B.Tech. Biotechnology** | **Dr. D. Y. Patil Biotechnology and Bioinformatics Institute** <br> 🧬 *Focus:* Bioinformatics, Perl, Biostatistics, and Advanced Computational Modules, Nanotechnology. |
+| **M.Phil. International Community Health** | **University of Oslo** <br> 📝 *Thesis:* Antimicrobial Resistance (AMR) & Health Literacy using the **OPHELIA** tool. <br> 🔬 *Focus:* Epidemiology, Quantitative methods and study desing, bias analysis, and survey validation. |
+| **B.Tech. Biotechnology** | **Dr. D. Y. Patil Biotechnology and Bioinformatics Institute** <br> 🧬 *Focus:* Bioinformatics, Perl, Biostatistics, and Advanced Computational Modules, Nanotechnology, Genetic Engineering, Molecular Biology. |
 
 > **Current Research:** I am currently preparing a manuscript for publication based on my Master's thesis regarding surveillance gaps in AMR and the application of the OPHELIA framework in disease contexts.
 
@@ -50,6 +50,7 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 * **Epidemiology:** Infectious Disease Modeling, Survival Analysis, Bias & Validity Analysis.
 
 #### 📊 Visualization & Tools
+[Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
