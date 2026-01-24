@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Quantitative%20Epidemiology%20%26%20Biostatistics&fontSize=40&fontAlign=50&fontAlignY=35&desc=Bridging%20Global%20Health%20with%20Data%20Science&descAlign=50&descAlignY=60&fontColor=ffffff" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Quantitative+Epidemiology+%26+Biostatistics;Causal+Inference+%26+Study+Design;Data-Driven+Public+Health" alt="Typing SVG" />
+</a>
 </div>
 
 <h1 align="center">Hello, I'm Sai Teja Muramalla</h1>
