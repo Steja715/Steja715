@@ -50,7 +50,7 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 * **Epidemiology:** Infectious Disease Modeling, Survival Analysis, Bias & Validity Analysis.
 
 #### 📊 Visualization & Tools
-[Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
