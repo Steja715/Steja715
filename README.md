@@ -28,8 +28,8 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 
 | **Degree** | **Details** |
 | :--- | :--- |
-| **M.Phil. International Community Health** | **University of Oslo** <br> 📝 *Thesis:* Antimicrobial Resistance (AMR) & Health Literacy using the **OPHELIA** tool. <br> 🔬 *Focus:* Quantitative methods, bias analysis, and survey validation. |
-| **B.Tech. Biotechnology** | **Dr. D. Y. Patil Biotechnology and Bioinformatics Institute** <br> 🧬 *Focus:* Bioinformatics, Perl, Biostatistics, and Advanced Computational Modules. |
+| **M.Phil. International Community Health** | **University of Oslo** <br> 📝 *Thesis:* Antimicrobial Resistance (AMR) & Health Literacy using the **OPHELIA** tool. <br> 🔬 *Focus:* Quantitative methods and study desing, bias analysis, and survey validation. |
+| **B.Tech. Biotechnology** | **Dr. D. Y. Patil Biotechnology and Bioinformatics Institute** <br> 🧬 *Focus:* Bioinformatics, Perl, Biostatistics, and Advanced Computational Modules, Nanotechnology. |
 
 > **Current Research:** I am currently preparing a manuscript for publication based on my Master's thesis regarding surveillance gaps in AMR and the application of the OPHELIA framework in disease contexts.
 
