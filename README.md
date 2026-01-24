@@ -68,5 +68,5 @@ I actively upskill in advanced statistical methods and data engineering to suppo
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=biostat-pro&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
 </div>
