@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Quantitative%20Epidemiology%20%26%20Biostatistics&fontSize=40&fontAlign=50&fontAlignY=35&desc=Bridging%20Global%20Health%20with%20Data%20Science&descAlign=50&descAlignY=60&fontColor=ffffff" width="100%"/>
 </div>
 
-<h1 align="center">Hello, I'm [Sai Teja Muramalla]</h1>
+<h1 align="center">Hello, I'm Sai Teja Muramalla</h1>
 
 <p align="center">
   <b>Biostatistician</b> | <b>Epidemiologist</b> | <b>Healthcare Data Analyst</b>
