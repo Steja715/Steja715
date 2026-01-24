@@ -1,47 +1,70 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sai+Teja Muramalla;International+Health+Master's;Data+Analyst+(Python+%2B+SQL);Visualizing+Health+Data" alt="Typing SVG" />
-
-  <h3 align="center"> bridging the gap between Public Health & Data Analytics </h3>
-
-  ---
-
-  <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Quantitative%20Epidemiology%20%26%20Biostatistics&fontSize=40&fontAlign=50&fontAlignY=35&desc=Bridging%20Global%20Health%20with%20Data%20Science&descAlign=50&descAlignY=60&fontColor=ffffff" width="100%"/>
 </div>
 
-### 👨‍💻 About Me
-I am a recent **Master's Graduate in International Health** (University of Oslo) transitioning into **Data Analytics**. 
+<h1 align="center">Hello, I'm [Sai Teja Muramalla]</h1>
 
-I combine domain expertise in epidemiology and global health with technical skills to drive data-driven decision-making. Currently upskilling with **Career247** to build robust portfolios.
+<p align="center">
+  <b>Biostatistician</b> | <b>Epidemiologist</b> | <b>Healthcare Data Analyst</b>
+</p>
 
-* 🔭 I’m currently working on: **Analysis of Global Health Trends**
-* 🌱 I’m learning: **Advanced SQL, Power BI, and Python**
-* 💡 Goal: To solve complex healthcare challenges using the knowledge of advanced statistical data.
+<p align="center">
+  <a href="LINK_TO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🛠️ Technical Stack
+### 🩺 About Me
+I am a researcher with a background in **Biotechnology** and **International Community Health**, currently transitioning into advanced computational epidemiology. My work focuses on the intersection of **infectious disease modeling**, **AMR surveillance**, and **causal inference**.
+
+I am passionate about applying rigorous quantitative methods to solve complex public health challenges, specifically using data to understand vaccine efficacy and pharmaceutical interventions.
+
+---
+
+### 🎓 Education & Research
+
+| **Degree** | **Details** |
+| :--- | :--- |
+| **M.Phil. International Community Health** | **University of Oslo** <br> 📝 *Thesis:* Antimicrobial Resistance (AMR) & Health Literacy using the **OPHELIA** tool. <br> 🔬 *Focus:* Quantitative methods, bias analysis, and survey validation. |
+| **B.Tech. Biotechnology** | **[Your University Name]** <br> 🧬 *Focus:* Bioinformatics, Perl, Biostatistics, and Advanced Computational Modules. |
+
+> **Current Research:** I am currently preparing a manuscript for publication based on my Master's thesis regarding surveillance gaps in AMR and the application of the OPHELIA framework in disease contexts.
+
+---
+
+### 🛠 The Technical Arsenal
+
+#### 💻 Programming & Data
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
+![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat-square&logo=spss&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### 📐 Quantitative Methodologies
+* **Study Designs:** Cohort, Case-Control, Cross-sectional, RCTs.
+* **Causal Inference:** DAGs (Directed Acyclic Graphs), Confounding adjustment, Counterfactual frameworks.
+* **Epidemiology:** Infectious Disease Modeling, Survival Analysis, Bias & Validity Analysis.
+
+#### 📊 Visualization & Tools
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure Data Studio](https://img.shields.io/badge/-Azure_Data_Studio-0078D4?style=flat-square&logo=azure&logoColor=white)
+
+---
+
+### 📜 Certifications & Advanced Training
+I actively upskill in advanced statistical methods and data engineering to support my research.
+
+* **Epidemiology Specialization** (Imperial College London via Coursera) - *Study Design & Validity*
+* **Causal Inference** (University of Pennsylvania via Coursera)
+* **Infectious Disease Modelling** (Imperial College London via Coursera)
+* **SQL Bootcamp** (Udemy) - *Advanced querying & database management*
+
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,excel,powerbi,tableau,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
 </div>
-
----
-
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Steja715&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Steja715&layout=compact&theme=radical)
----
-
-### 📂 Career247 & Capstone Projects
-
-| Project Name | Domain | Tools | Status |
-| :--- | :--- | :--- | :--- |
-| **Healthcare Analysis** | Epidemiology | Python (Pandas) | 🚧 In Progress |
-| **Sales Dashboard** | Operations | Power BI | 🔜 Coming Soon |
