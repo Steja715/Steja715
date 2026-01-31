@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Quantitative%20Epidemiology%20%26%20Biostatistics;Infectious%20Disease%20Spatial%20Analysis;Data-Driven%20Public%20Health%20Solutions;MSc%20at%20University%20of%20Oslo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Quantitative%20Epidemiology%20%26%20Biostatistics;Infectious%20Disease%20Spatial%20Analysis;Data-Driven%20Public%20Health%20Solutions;MPhil%20at%20University%20of%20Oslo" alt="Typing SVG" />
 </a>
 </div>
 
