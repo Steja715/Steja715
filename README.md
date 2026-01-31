@@ -47,7 +47,7 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 #### 📐 Quantitative Methodologies
 * **Study Designs:** Cohort, Case-Control, Cross-sectional, RCTs.
 * **Causal Inference:** DAGs (Directed Acyclic Graphs), Confounding adjustment, Counterfactual frameworks.
-* **Epidemiology:** Infectious Disease Modeling, Survival Analysis, Bias & Validity Analysis.
+* **Epidemiology:** Infectious Disease Modeling, Survival Analysis, Bias & Validity Analysis, Geospatial Analysis.
 
 #### 📊 Visualization & Tools
 ![Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
