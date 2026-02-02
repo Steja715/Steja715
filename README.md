@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sai-teja-muramalla-7673236b"><img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/biography/LinkedIn.svg" width="100" height="30" alt="LinkedIn">
+  <a href="www.linkedin.com/in/sai-teja-muramalla-7673236b"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
