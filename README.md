@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="LINK_TO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="LINK_TO_LINKEDIN"><img src="www.linkedin.com/in/sai-teja-muramalla-7673236b"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
