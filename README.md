@@ -32,11 +32,11 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Quantitative%20Health%20Research&fontSize=30&fontColor=ffffff&desc=Survival%20Analysis%20-%20Spatial%20Epidemiology%20-%20Biostatistics%20-%20Independent%20Projects&descFontSize=15&descFontColor=a8d0e6&animation=fadeIn&fontAlignY=38&descAlignY=58" width="100%" alt="Explore Full Portfolio" />
   </a>
 
-  <p align="center">
-    <a href="https://saitejamuramalla.org">
-      <img src="https://img.shields.io/badge/🚀_CLICK_HERE_TO_EXPLORE_FULL_PORTFOLIO-FFD700?style=for-the-badge&logo=google-earth&logoColor=black&labelColor=000000" height="50" alt="Enter Website" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://saitejamuramalla.org">
+    <img src="https://img.shields.io/badge/🚀_CLICK_HERE_TO_EXPLORE_FULL_PORTFOLIO-00C9A7?style=for-the-badge&logo=google-earth&logoColor=white&labelColor=1d3557" height="50" alt="Enter Website" />
+  </a>
+</p>
   
   <p align="center">
     <i>A unified hub of my academic thesis, independent case studies, and skill developed</i>
