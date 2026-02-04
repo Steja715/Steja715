@@ -39,7 +39,7 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
   </p>
   
   <p align="center">
-    <i>A unified hub of my academic thesis, independent case studies, and open-source code.</i>
+    <i>A unified hub of my academic thesis, independent case studies, and skill developed</i>
   </p>
 </div>
 <br />
