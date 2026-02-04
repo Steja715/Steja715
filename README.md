@@ -26,16 +26,20 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 
 <br />
 <div align="center">
-  <h2 align="center">🔬 Featured Research & Projects</h2>
+  <h2 align="center">🧬 Research & Independent Projects</h2>
   
   <a href="https://saitejamuramalla.org">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:007acc&height=180&section=header&text=Explore%20Full%20Research%20Portfolio&fontSize=30&fontColor=ffffff&desc=Click%20here%20to%20view%20thesis%20details,%20models,%20and%20AMR%20studies&descFontSize=15&descFontColor=e0e0e0&animation=fadeIn&fontAlignY=40&descAlignY=62" width="100%" alt="Explore Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Quantitative%20Research%20%26%20Project%20Portfolio&fontSize=26&fontColor=ffffff&desc=Explore%20Independent%20Projects%20|%20Disease%20Models%20|%20Biostatistics&descFontSize=15&descFontColor=a8d0e6&animation=fadeIn&fontAlignY=38&descAlignY=55" width="100%" alt="Explore Full Portfolio" />
   </a>
 
   <p align="center">
     <a href="https://saitejamuramalla.org">
-      <img src="https://img.shields.io/badge/ENTER_PORTFOLIO_WEBSITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Enter Website" />
+      <img src="https://img.shields.io/badge/✨_CLICK_TO_EXPLORE_FULL_COLLECTION_✨-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937" height="45" alt="Enter Website" />
     </a>
+  </p>
+  
+  <p align="center">
+    <i>A unified hub of my academic thesis, independent case studies, and open-source code.</i>
   </p>
 </div>
 <br />
