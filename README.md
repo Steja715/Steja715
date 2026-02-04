@@ -25,17 +25,19 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 ---
 
 <br />
-<h2 align="center">🔬 Featured Research & Projects</h2>
-
-<p align="center">
-  I have documented my complete research portfolio, including detailed case studies on <strong>AMR Surveillance</strong>, <strong>Infectious Disease Modeling</strong>, and <strong>Biostatistics</strong>, on my personal website.
-</p>
-
-<p align="center">
+<div align="center">
+  <h2 align="center">🔬 Featured Research & Projects</h2>
+  
   <a href="https://saitejamuramalla.org">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio_of_All_Projects-003366?style=for-the-badge&logo=firefox&logoColor=white" alt="View Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:007acc&height=180&section=header&text=Explore%20Full%20Research%20Portfolio&fontSize=30&fontColor=ffffff&desc=Click%20here%20to%20view%20thesis%20details,%20models,%20and%20AMR%20studies&descFontSize=15&descFontColor=e0e0e0&animation=fadeIn&fontAlignY=40&descAlignY=62" width="100%" alt="Explore Portfolio" />
   </a>
-</p>
+
+  <p align="center">
+    <a href="https://saitejamuramalla.org">
+      <img src="https://img.shields.io/badge/ENTER_PORTFOLIO_WEBSITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Enter Website" />
+    </a>
+  </p>
+</div>
 <br />
 
 ### 🎓 Education & Research
