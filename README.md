@@ -24,48 +24,41 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
 
 ---
 
-<br>
-
+<br />
 <h2 align="center">🔬 Featured Research & Projects</h2>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3 align="center">
-        <a href="https://saitejamuramalla.org/thesis.html" style="text-decoration: none; color: #007acc;">
-          🧪 Green Synthesis of AgNPs
-        </a>
-      </h3>
-      <p align="center"><strong>In-Silico Docking & Antimalarial Drug Delivery</strong></p>
-      <p align="justify">
-        Investigated eco-friendly silver nanoparticles for malaria treatment. Performed molecular docking simulations (FlexX) and identified <strong>Atovaquone</strong> as a high-affinity drug carrier.
-      </p>
-      <p align="center">
-        <a href="https://saitejamuramalla.org/thesis.html">
-          <img src="https://img.shields.io/badge/View_Research_Page-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3 align="center">
-        <a href="https://saitejamuramalla.org" style="text-decoration: none; color: #007acc;">
-          🦠 AMR & Health Literacy
-        </a>
-      </h3>
-      <p align="center"><strong>M.Phil Thesis (University of Oslo)</strong></p>
-      <p align="justify">
-        Addressed surveillance gaps in Antimicrobial Resistance (AMR). Applied the <strong>OPHELIA</strong> framework to optimize health literacy interventions in infectious disease contexts.
-      </p>
-      <p align="center">
-        <a href="https://saitejamuramalla.org">
-          <img src="https://img.shields.io/badge/View_Full_Portfolio-003366?style=for-the-badge&logo=firefox&logoColor=white" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<table width="100%" align="center" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none; padding: 10px;">
+<h3 align="center">
+<a href="https://saitejamuramalla.org/thesis.html" style="text-decoration: none; color: #007acc;">🧪 Green Synthesis of AgNPs</a>
+</h3>
+<p align="center"><strong>In-Silico Docking & Drug Delivery</strong></p>
+<p align="justify">
+Investigated eco-friendly silver nanoparticles for malaria treatment. Performed molecular docking simulations (FlexX) and identified <strong>Atovaquone</strong> as a high-affinity drug carrier.
+</p>
+<p align="center">
+<a href="https://saitejamuramalla.org/thesis.html">
+<img src="https://img.shields.io/badge/View_Research_Page-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project" />
+</a>
+</p>
+</td>
+<td width="50%" valign="top" style="border: none; padding: 10px;">
+<h3 align="center">
+<a href="https://saitejamuramalla.org" style="text-decoration: none; color: #007acc;">🦠 AMR & Health Literacy</a>
+</h3>
+<p align="center"><strong>M.Phil Thesis (University of Oslo)</strong></p>
+<p align="justify">
+Addressed surveillance gaps in Antimicrobial Resistance (AMR). Applied the <strong>OPHELIA</strong> framework to optimize health literacy interventions in infectious disease contexts.
+</p>
+<p align="center">
+<a href="https://saitejamuramalla.org">
+<img src="https://img.shields.io/badge/View_Full_Portfolio-003366?style=for-the-badge&logo=firefox&logoColor=white" alt="View Project" />
+</a>
+</p>
+</td>
+</tr>
 </table>
-
+<br />
 <br>
 
 ### 🎓 Education & Research
