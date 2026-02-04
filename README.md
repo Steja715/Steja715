@@ -29,7 +29,7 @@ I am passionate about applying rigorous quantitative methods to solve complex pu
   <h2 align="center">🧬 Research & Independent Projects</h2>
   
   <a href="https://saitejamuramalla.org">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Quantitative%20Research%20%26%20Project%20Portfolio&fontSize=26&fontColor=ffffff&desc=Explore%20Independent%20Projects%20|%20Disease%20Models%20|%20Biostatistics&descFontSize=15&descFontColor=a8d0e6&animation=fadeIn&fontAlignY=38&descAlignY=55" width="100%" alt="Explore Full Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Quantitative%20Research%20%26%20Project%20Portfolio&fontSize=26&fontColor=ffffff&desc=Explore%20Independent%20Projects%20%7C%20Disease%20Models%20%7C%20Biostatistics&descFontSize=15&descFontColor=a8d0e6&animation=fadeIn&fontAlignY=38&descAlignY=55" width="100%" alt="Explore Full Portfolio" />
   </a>
 
   <p align="center">
